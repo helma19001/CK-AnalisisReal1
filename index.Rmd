@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Catatan Kuliah Analisis Rill 1"
+author: "Moh Hidayah K."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
