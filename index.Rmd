@@ -1,9 +1,11 @@
 --- 
-title: "Catatan Kuliah Analisis Rill 1"
+title: "Catatan Kuliah Analisis Real 1"
 author: "Moh Hidayah K."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Hallo {-}
 
+Bookdown ini merupakan catatan dan dokumentasi penulis pada mata kuliah **Analisis Real 1**.
+Jika terdapat kesalahan, komentar, ataupun pertanyaan, anda dapat menghubungi penulis di `kmohhidayah@gmail.com`.

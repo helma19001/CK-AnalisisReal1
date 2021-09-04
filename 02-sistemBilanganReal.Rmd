@@ -1,0 +1,7 @@
+# Sistem Bilangan Real
+
+## Sifat Dasar Aljabar
+
+Pada $\Re$ terdapat dua operasi biner yaitu penjumlahan dan perkalian dinotasikan $+$ dan $\cdot$ memenuhi sifat-sifat berikut.
+
+### Operasi Penjumlahan
