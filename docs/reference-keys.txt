@@ -1,3 +1,10 @@
 sistem-bilangan-real
 sifat-dasar-aljabar
 operasi-penjumlahan
+a.-operasi-penjumlahan
+part-sistem-bilangan-real
+eq:linear
+thm:unlabeled-div-1
+thm:unlabeled-div-2
+thm:foo
+m.-operasi-perkalian

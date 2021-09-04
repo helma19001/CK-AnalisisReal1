@@ -1,7 +1,21 @@
-# Sistem Bilangan Real
+# Sistem Bilangan Real 
+
+>Pendefinisian sistem bilangan berdasarkan sifat dasarnya terbagi ke dalam tiga kelompok.
 
 ## Sifat Dasar Aljabar
 
 Pada $\Re$ terdapat dua operasi biner yaitu penjumlahan dan perkalian dinotasikan $+$ dan $\cdot$ memenuhi sifat-sifat berikut.
 
-### Operasi Penjumlahan
+### A. Operasi Penjumlahan
+
+* (A1). Komutatif / (Pertukaran) $\to$ $a+b=b+a$ , untuk setiap $a,b \in \Re$ 
+* (A2). Assosiatif / (Pengelompokan) $\to$ $(a+b)+c=a+(b+c)$ , untuk setiap $a,b,c \in \Re$
+* (A3). Terdapat $0$ di $\Re$ sedemikian sehingga $0+a=a$ dan $a+0=a$ , untuk setiap $a \in \Re$
+* (A4). Untuk setiap $a \in \Re$ terdapat $-a \in \Re$ sedemikian sehingga $a+(-a)=0$ dan $-a+a=0$ (eksistensi elemen negatif)
+
+### M. Operasi Perkalian
+
+* (M1). Komutatif / (Pertukaran) → $a\cdot b=b \cdot a$ , untuk setiap $a,b \in \Re$
+* (M2). Assosiatif / (Pengelompokan) → $(a \cdot b)\cdot c=a \cdot (b \cdot c)$ , untuk setiap $a,b,c \in \Re$
+* (M3). Terdapat $1$ di $\Re$ sedemikian sehingga $1 \cdot a=a$ dan $a\cdot 1 =a$ , untuk setiap $a \in \Re$ (elemen identitas perkalian)
+* M4). Untuk setiap $a \in \Re$ , $a \not= 0$ terdapat $\frac{1}{a} \in \Re$ sedemikian sehingga $a\cdot (\frac{1}{a}) = 1$ dan $(\frac{1}{a}) \cdot a = 1$ (eksistensi invers perkalian)
